@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ShootBomb.cs">
+    <Files>
+      <File FileName="Assets/PodRacer.cs" Line="18" Column="44" />
+      <File FileName="Assets/Sources/LightningBolt.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs" Line="1" Column="1" />
+      <File FileName="Assets/NetworkManager.cs" Line="17" Column="90" />
+      <File FileName="Assets/CObserve.cs" Line="10" Column="72" />
+      <File FileName="Assets/ShootBomb.cs" Line="40" Column="134" />
+      <File FileName="Assets/Textures/Explosion.cs" Line="27" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
